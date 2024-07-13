@@ -1,0 +1,2 @@
+print ("hola amigo hoy crearemos un nombre genial para tu cerveza a continuacion ingresa los datos que te pido ")   
+print (" el nombre mas adecuado para tu cerveza es : " + input (" ¿cual es el nombre del ingrediente mas intersante que tiene tu cerveza? ") + " " + input (" ¿ es cerveza clara o es oscura ? ") )

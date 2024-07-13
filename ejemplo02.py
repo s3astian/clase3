@@ -1,0 +1,5 @@
+# print("hola me llamo \"johan\" ")
+# print("esta es una linea  \nesta es otra linea\n")
+print(" linea 1 \n linea 2 \n linea 3")
+print("\t")
+print(" A \t B \t C  \n D \t E \t F  \n G \t H \t I ")
