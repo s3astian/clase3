@@ -1,0 +1,5 @@
+print("bienvenidos al sistemas de porcentaje de carexprres movile ventas de usados y nuevos ")
+nombre = input("por favor ingresa tu nombre completo :")
+valor = float (input("por favor ingresa el valor de tus ventas :"))
+operacion = round ((valor * 0.13), 2)
+print (f" hola {nombre} el valor del porcentaje de tus ingresos es { operacion }")
